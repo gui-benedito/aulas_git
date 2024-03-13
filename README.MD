@@ -1,4 +1,5 @@
 <h2> Teste de conflito</h2>
+<p>Esse é um teste</p>
 
 # MEU REPOSITÓRIO DE AULA GIT
 ## Autor: Guilherme Benedito
