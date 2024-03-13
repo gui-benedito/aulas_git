@@ -1,3 +1,4 @@
+<h2> Teste de conflito</h2>
 # MEU REPOSITÓRIO DE AULA GIT
 ## Autor: Guilherme Benedito
 
